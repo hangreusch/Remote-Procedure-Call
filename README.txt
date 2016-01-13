@@ -1,4 +1,5 @@
-This is a program using RPC (Remote Procedure Calls). The server can concurrently handle request (sorting an array of numbers) from multiple clients at the same time. I use Solaris machine as a server, and Linux machines as clients. 
+This is a program using RPC (Remote Procedure Calls). The server can concurrently handle request (sorting an array of numbers) 
+from multiple clients at the same time. I use Solaris machine as a server, and Linux machines as clients. 
 
 To run my RPC program, please follow these steps:
 
